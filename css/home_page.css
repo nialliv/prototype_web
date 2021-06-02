@@ -1,0 +1,44 @@
+.home_page {
+    display: flex;
+    justify-content: space-between;
+    max-width: 943px;
+    align-items: flex-end;
+    padding: 40px 0px 50px;
+}
+
+.person_name {
+    font-family: Gilroy-Bold;
+    font-size: 48px;
+
+    color: #070707;
+}
+
+.descriton_name {
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #070707;
+}
+
+.language {
+    font-family: Gilroy-Bold;
+    font-size: 16px;
+
+    color: #828282;
+
+    transform: rotate(-90deg) translateY(24px) translateX(25px);
+}
+
+.language_selected {
+    color: #070707;
+}
+
+.main_photo {
+
+    width: 943.61px;
+    height: 387px;
+    
+
+    background: url(valentin-salja-1058467-unsplash.jpg);
+}

@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 943px;
+    padding: 32.05px 0;
+    align-items: flex-start;
+
+    border-bottom: 1px solid #828282;
+}
+
+.navbar_home {
+    display: flex;
+    
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #070707;
+}
+
+.navbar_items {
+    display: flex;
+    
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #828282;
+}
